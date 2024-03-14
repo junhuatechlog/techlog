@@ -1,11 +1,11 @@
 # Site settings
-title: "junhuawa"
-url: "//junhuawa.github.io"
+title: "junhuatechlog"
+url: "//junhuatechlog.github.io/techlog"
 paginate: 5
 author:
     name: 王军华
     github: junhuawa
-    email: junhua.h.wang@nokia.com
+    email: 27577012@qq.com
     gitcafe:
     twitter:
     facebook:
